@@ -1,0 +1,28 @@
+name: 'Red Global MX: Europa'
+favicon: null
+layout_spectrum: 0.7374028502963483
+typography_spectrum: 0.3495354219339788
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.28432811913080513
+  lightness: 0.3319747718051076
+  saturation: 0.5011904628481716
+  rhythmicContrast: 0.5503694787621498
+purpose: []
